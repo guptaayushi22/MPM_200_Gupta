@@ -3,6 +3,9 @@
 ==============================
 
 Text summarizing your project.
+The code is for summarizing and analyzing the factors that affect the survival or release of hummingbirds once they are admitted to a rehabilitation centre.
+Tables and graphs of the hummingbird data to compare data across different factors and variables. 
+The output shows that season, age, sex likely have association with the disposition of hummingbirds. However, further statistical analysis is required for understanding associations better. 
 
 ## Project Organization
 ------------
